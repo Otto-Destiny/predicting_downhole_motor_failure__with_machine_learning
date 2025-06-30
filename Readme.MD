@@ -111,7 +111,7 @@ Incorporating such predictive models into the rig's decision loop can reduce dow
 ## Author
 
 **Destiny Otto**  
-_Petroleum Engineer|Machine Learning| Computational Modelling|_  
+_Petroleum Engineer | Machine Learning | Computational Modelling_  
 [GitHub Profile](https://github.com/Otto-Destiny)
 
 ---
