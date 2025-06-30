@@ -1,6 +1,6 @@
 # Downhole Motor Failure Prediction & Anomaly Analytics
 
-![Anomaly Detection in Motor Pressure Signal](images\diff_pressure-3.png)
+![Anomaly Detection in Motor Pressure Signal](images/diff_pressure-3.png)
 _Points of Motor Fail along the well depth and time of occurrence_
 
 ## Overview
